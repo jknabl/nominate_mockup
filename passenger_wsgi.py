@@ -7,4 +7,4 @@ if sys.executable != INTERP:
 sys.path.append(os.getcwd())
 
 sys.path.append(config.HOST['domain'])
-from ccnomination.app import app as application
+from ccnomination import app as application
