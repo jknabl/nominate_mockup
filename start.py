@@ -1,3 +1,4 @@
+import config
 from flask import Flask, render_template, redirect, flash
 from requests import get 
 import json
