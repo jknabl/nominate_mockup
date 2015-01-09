@@ -6,13 +6,14 @@ import sqlite3
 from flask import g
 import forms
 
+STAFF_EXPORT = config.URLS['staff_export']
 DATABASE = '/Users/jknabl/Documents/code-projects/ccnomination/db.db'
 
 app = Flask(__name__)
 
 @app.route('/staff')
 def staff():
-  r = get('http://jknabl-ccdbdev.sharcnet.ca/export/staff_details')
+  r = get(STAFF_EXPORT)
   init_db()
   returned = json.loads(r.text)
   return "hi"
@@ -39,7 +40,7 @@ def institutions():
   return json.dumps(list(set(institutions)))
   
 def init_db():
-  r = get('http://jknabl-ccdbdev.sharcnet.ca/export/staff_details')
+  r = get(STAFF_EXPORT)
   returned = json.loads(r.text)
   #print returned
   for person in returned:
