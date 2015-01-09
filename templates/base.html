@@ -1,0 +1,21 @@
+<!doctype html>
+
+<style>
+p.flash {
+  background-color: red;
+
+}
+</style>
+<html>
+{% with messages = get_flashed_messages() %}
+  {% if messages %}
+    {% for message in messages %}
+      <li><p class="flash"><b>{{ message }}</b></p></li>
+    {% endfor %}
+
+
+  {% endif %}
+{% endwith %}
+
+{% block content %}{% endblock %}
+</html>

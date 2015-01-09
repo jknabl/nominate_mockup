@@ -1,0 +1,409 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"des",
+				"dest_transfer"
+			],
+			[
+				"source",
+				"source_transfer"
+			],
+			[
+				"dest",
+				"dest_transfer"
+			],
+			[
+				"destin",
+				"destination_endpoint"
+			],
+			[
+				"chunke",
+				"chunked_string"
+			],
+			[
+				"chun",
+				"chunked_iv"
+			],
+			[
+				"string",
+				"string_to_int_array"
+			],
+			[
+				"strin",
+				"string_to_int_array"
+			],
+			[
+				"decrypt",
+				"decrypted_ciphertext"
+			],
+			[
+				"decr",
+				"decrypted_ciphertext"
+			],
+			[
+				"xor",
+				"xord_first_block"
+			],
+			[
+				"block",
+				"block_type"
+			],
+			[
+				"encrypt",
+				"encrypt_block"
+			],
+			[
+				"con",
+				"convert_fixnum_to_string"
+			],
+			[
+				"plainte",
+				"plaintext_to_4char_chunks"
+			],
+			[
+				"plain",
+				"plaintext"
+			],
+			[
+				"convert",
+				"convert_fixnum_to_string"
+			],
+			[
+				"a",
+				"am	alias_method .."
+			],
+			[
+				"stri",
+				"string_to_int_blocks"
+			],
+			[
+				"ch",
+				"chunked_key"
+			],
+			[
+				"conv",
+				"convert_32int_to_readable_s"
+			],
+			[
+				"conver",
+				"convert_to_32int"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"appl",
+				"application_period_end"
+			],
+			[
+				"appli",
+				"application_period_start"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jknabl/Documents/code-projects/ccnomination/schema.sql",
+		"/Users/jknabl/Documents/code-projects/ccnomination/__init__.py",
+		"/Users/jknabl/Documents/code-projects/ccnomination/templates/index.html",
+		"/Users/jknabl/Documents/code-projects/ccnomination/forms.py",
+		"/Users/jknabl/Documents/code-projects/ccnomination/start.py",
+		"/Users/jknabl/Desktop/meeting-kelly-research-tool",
+		"/Users/jknabl/Documents/code-projects/globustransfer/src/get_creds.py",
+		"/Users/jknabl/Documents/code-projects/globustransfer/src/mirror.py",
+		"/Users/jknabl/Documents/code-projects/globustransfer/src/mirror_urllib.py",
+		"/Users/jknabl/Documents/code-projects/globustransfer/globustransfer.sublime-project",
+		"/Users/jknabl/Documents/globus-serve/get_creds.py",
+		"/Users/jknabl/Documents/globus-serve/mirror_urllib.py",
+		"/Users/jknabl/Documents/globus-serve/mirror.py",
+		"/Users/jknabl/Documents/jan5-jason-meeting",
+		"/Users/jknabl/Documents/globus-serve/mirror-service-wiki.txt",
+		"/Users/jknabl/Documents/globus-serve/mirror.sh",
+		"/Users/jknabl/Documents/school/comp4109/project/src/benchmarks.sh",
+		"/Users/jknabl/Documents/school/comp4109/project/src/rb/tea.rb",
+		"/Users/jknabl/Documents/school/comp4109/project/src/rb/cryptohelp.rb",
+		"/Users/jknabl/Documents/school/comp4109/project/src/rb/blockrunner.rb",
+		"/Users/jknabl/Documents/school/comp4109/project/src/python/xtea.py",
+		"/Users/jknabl/Documents/school/comp4109/project/src/python/test_encryption.py",
+		"/Users/jknabl/Documents/school/comp4109/project/src/python/tea.py",
+		"/Users/jknabl/Documents/school/comp4109/project/src/python/crypto_help.py",
+		"/Users/jknabl/Documents/school/comp4109/project/src/python/block_runner.py",
+		"/Users/jknabl/Documents/school/comp4109/project/src/python/__init__.py",
+		"/Users/jknabl/Documents/school/comp4109/project/src/rb/test_encryption.rb",
+		"/Users/jknabl/Documents/school/comp4109/project/src/rb/xtea.rb",
+		"/Users/jknabl/Documents/school/comp4109/project/src/python/README.txt",
+		"/Users/jknabl/Documents/school/comp4109/project/src/python/benchmarks.sh",
+		"/Users/jknabl/Documents/school/comp4109/project/src/c/tea.c",
+		"/Users/jknabl/Documents/school/comp4109/project/src/blockrunner.rb",
+		"/Users/jknabl/Documents/school/comp4109/project/src/cryptohelp.rb",
+		"/Users/jknabl/Documents/school/comp4109/project/src/tea.rb",
+		"/Users/jknabl/Documents/school/comp4109/project/src/tea2.rb",
+		"/Users/jknabl/Documents/school/comp4109/project/tea.rb",
+		"/Users/jknabl/Documents/school/comp4109/project/4109.sublime-project",
+		"/Users/jknabl/Documents/ccdb/spec/factories/fast_track_application.rb",
+		"/Users/jknabl/Documents/ccdb/app/views/manage_allocation/_view_application_11.html.erb",
+		"/Users/jknabl/Documents/ccdb/spec/factories/department.rb",
+		"/Users/jknabl/Documents/ccdb/spec/factories/resource_application.rb",
+		"/Users/jknabl/Documents/ccdb/app/models/person.rb",
+		"/Users/jknabl/Documents/ccdb/spec/factories/role.rb",
+		"/Users/jknabl/Documents/ccdb/spec/factories/institution.rb",
+		"/Users/jknabl/Documents/ccdb/spec/factories/person.rb",
+		"/Users/jknabl/Documents/ccdb/spec/factories/application_round.rb",
+		"/Users/jknabl/Documents/ccdb/app/models/resource_application.rb",
+		"/Users/jknabl/Documents/ccdb/app/models/validation_stuff.rb",
+		"/Users/jknabl/Documents/ccdb/app/controllers/allocation_controller.rb",
+		"/Users/jknabl/Documents/ccdb/app/models/fast_track_application.rb",
+		"/Users/jknabl/Documents/ccdb/support_scripts/show_rails_env.rb",
+		"/Users/jknabl/Documents/ccdb/test/fixtures/fast_track_applications.yml",
+		"/Users/jknabl/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jknabl/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/jknabl/Documents/ccdb/app/views/manage_allocation/fast_track_stats.erb",
+		"/Users/jknabl/Documents/ccdb/app/models/funding_agency.rb",
+		"/Users/jknabl/Documents/ccdb/app/models/faq.rb",
+		"/Users/jknabl/Documents/ccdb/app/controllers/resource_requests.rb",
+		"/Users/jknabl/Documents/ccdb/app/models/resource.rb",
+		"/Users/jknabl/Documents/ccdb/app/models/resource_socket.rb",
+		"/Users/jknabl/Documents/ccdb/app/models/role.rb",
+		"/Users/jknabl/Documents/ccdb/app/models/research_outcome.rb",
+		"/Users/jknabl/Documents/ccdb/Rakefile",
+		"/Users/jknabl/Documents/ccdb/config/application.rb",
+		"/Users/jknabl/Documents/ccdb/app/views/security/_aup_original_en.html.erb",
+		"/Users/jknabl/Documents/ccdb/app/models/out_of_round_applicant.rb",
+		"/Users/jknabl/Documents/ccdb/app/models/old_research_outcome.rb",
+		"/Users/jknabl/Documents/ccdb/app/models/.resource_application.rb.swp",
+		"/Users/jknabl/Documents/ccdb/app/models/local_account_status.rb",
+		"/Users/jknabl/Documents/ccdb/app/models/lang_pref.rb",
+		"/Users/jknabl/Documents/ccdb/app/models/email.rb",
+		"/Users/jknabl/Documents/ccdb/app/models/department.rb",
+		"/Users/jknabl/Documents/ccdb/app/mailers/other_mailer.rb",
+		"/Users/jknabl/Documents/ccdb/app/mailers/.renewal_mailer.rb.swp",
+		"/Users/jknabl/Documents/ccdb/db/migrate/047_add_protected_to_positions.rb",
+		"/Users/jknabl/Documents/ccdb/app/views/browse/add_pos.html.erb",
+		"/Users/jknabl/Documents/ccdb/app/controllers/application_controller.rb",
+		"/Users/jknabl/Documents/ccdb/app/controllers/audit_controller.rb",
+		"/Users/jknabl/Documents/coding/cc/mailchimp-analyze.rb",
+		"/Users/jknabl/Documents/school/comp4109/assignments/a2/a2.rb",
+		"/Users/jknabl/Documents/cc-reporting/GLOBUS-MTG",
+		"/Users/jknabl/Documents/cc-reporting/ACCT-AUDIT",
+		"/Users/jknabl/Downloads/stockfish-5-mac/Readme.md",
+		"/Users/jknabl/Downloads/schemacrawler-sqlite-11.01.01-distrib/schemacrawler-sqlite-11.01.01/sc.sh",
+		"/Users/jknabl/Downloads/youtube.lua",
+		"/Users/jknabl/Documents/school/fins2105/exercises/week-1",
+		"/Users/jknabl/Google Drive/mark/sep-25/institutional-usage-queries-w-region-prov.sql",
+		"/Users/jknabl/Google Drive/mark/sep-25/institutional-usage-queries.sql",
+		"/Users/jknabl/Documents/school/comp4109/assignments/a1/2b.rb",
+		"/Users/jknabl/Google Drive/mark/sep-25/active-faculty-group-queries.sql",
+		"/Users/jknabl/Google Drive/ResearchSupportCommittee/2014-resource-satisfaction/survey-data-query.sql",
+		"/Users/jknabl/Documents/cc-reporting/fix-sharcnet-institutions.sqp",
+		"/Users/jknabl/Google Drive/dugan/sep-11/active-faculty-with-usage-since-jan-2014-sql.txt",
+		"/Users/jknabl/Downloads/role-count.sql",
+		"/Users/jknabl/Documents/cc-reporting/nserc-funding.sql"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Rreturn",
+			"decrypt_ebc",
+			"=>",
+			"ptd",
+			"ct",
+			"pt",
+			"v1",
+			"v0",
+			"v1",
+			"v0",
+			"DELTA",
+			"permission_method",
+			"tech_rev",
+			"redirect_to_ra",
+			":",
+			"width",
+			"window"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"decrypt_ecb",
+			"decrypted_ciphertext",
+			"encrypted_ciphertext",
+			"original_plaintext",
+			"x",
+			"y",
+			"x",
+			"y",
+			"MAGIC_CONSTANT",
+			"=>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "ccnominations.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"resource",
+				"app/models/resource_application.rb"
+			],
+			[
+				"fast_tr",
+				"app/models/fast_track_application.rb"
+			],
+			[
+				"resource_appl",
+				"app/models/resource_application.rb"
+			],
+			[
+				"role.rb",
+				"app/models/role.rb"
+			],
+			[
+				"app/models/person",
+				"app/models/person.rb"
+			],
+			[
+				"~/documents/ccdb",
+				"~/Documents/coding/cc/mailchimp-analyze.rb"
+			],
+			[
+				"",
+				"~/Documents/coding/cc/mailchimp-analyze.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

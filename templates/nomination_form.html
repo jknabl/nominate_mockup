@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+{% block content %}
+<head>
+<title>
+Nomination form for {{ employee['first_name'] }}  {{ employee['last_name'] }}
+</title>
+</head>
+<body>
+
+
+<h1>Nominate {{ employee['first_name'] }} for an award:</h1>
+
+
+{% set form_path = "/nominate/%s" % employee['id'] %}
+
+<form action="" method="post" name="nominate">
+  <div class="row">
+    <p>First Name: {{ employee['first_name'] }}</p>
+  </div>
+  <div class="row">
+    <p>Last Name: {{ employee['last_name'] }}</p>
+  </div>
+  <div class="row">
+    <p>Instution: {{ employee['institution_name'] }}</p>
+  </div>
+  <div class="row">
+    <p>Region: {{ employee['region_name'] }}</p>
+  </div>
+  <hr>
+  <h3>Your information:</h3>
+  <p>Your full name: {{ form.your_name(size=60) }} </p>
+  <p>Enter a brief description of why this nominee is awesome:</p>
+  <p>{{ form.awesomeness() }}</p>
+  <p><input type="submit" value="Nominate!"></p>
+</form>
+{% endblock %}
+
+</body>

@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% block content %}
+<head>
+<title>All employees</title>
+</head>
+
+<body>
+<p><h1>All employees</h1></p>
+<p><h3><i>Click an employee's name to nominate them for an award. You will then be directed to a nomination form.</i></h3></p>
+<p><h3><b>Fun tip:</b> use CTRL-F to search for an employee within your browser.</h3></p>
+
+<div class="employee_table">
+{% for employee in employees %}
+  <div class="employee_row">
+    <p>
+    {% set path = "/nominate_form/%s" % employee['id'] %}
+    <a href={{ path }}>
+
+    {{ employee['last_name'] }}, {{ employee['first_name'] }}. 
+      {{ employee['institution_name'] }} ({{ employee['region_name'] }})
+    </a>
+    </p>
+  </div>
+
+
+{% endfor %}
+
+</div>
+</body>
+
+{% endblock %}
